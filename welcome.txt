@@ -2,6 +2,7 @@ welcome to the version control
 
 Git is for tracking changes
 Git is dvcs
-
-hi all
 welcome git
+hello
+
+
